@@ -1,0 +1,92 @@
+[
+    {
+        "id": "488a68bf-951f-44e0-ad96-f61d74f693b5",
+        "name": "Доставка стройматериалов для нового проекта",
+        "description": "Организация доставки строительных материалов на объект строительства.",
+        "serviceType": "Delivery",
+        "status": "Published",
+        "organizationId": "946bd3dd-3ab8-4c5c-b84b-7b36e5aeea65",
+        "version": 1
+    },
+    {
+        "id": "4dbf76b6-4614-42f2-9e34-4f2e02065a4c",
+        "name": "Строительство нового жилого комплекса",
+        "description": "Проект по строительству многоквартирного жилого комплекса в центре города.",
+        "serviceType": "Construction",
+        "status": "Created",
+        "organizationId": "2c215181-e7ee-48ec-becc-8872a9f0f75e",
+        "version": 1
+    },
+    {
+        "id": "8c3fabe0-ba12-47b8-be7b-9ddf4fe7b790",
+        "name": "Доставка оборудования для фабрики",
+        "description": "Услуги по доставке нового оборудования для производственной фабрики.",
+        "serviceType": "Delivery",
+        "status": "Published",
+        "organizationId": "40adf359-707b-4509-9ade-4964a8544be6",
+        "version": 1
+    },
+    {
+        "id": "7663c3de-a654-42c4-a020-bc85f32a11df",
+        "name": "Производство упаковочных материалов",
+        "description": "Производство и поставка упаковочных материалов для новых продуктов.",
+        "serviceType": "Manufacture",
+        "status": "Created",
+        "organizationId": "4f6a1ebf-81f7-453c-89f2-87c6ebe19f2d",
+        "version": 1
+    },
+    {
+        "id": "64b321f1-a374-4ac9-bbf0-fe830ff105dc",
+        "name": "Экспресс-доставка товаров для интернет-магазина",
+        "description": "Срочная доставка товаров по заказам интернет-магазина.",
+        "serviceType": "Delivery",
+        "status": "Published",
+        "organizationId": "572361ed-0e52-42ff-a74d-062c5b94576f",
+        "version": 1
+    },
+    {
+        "id": "77548b27-7c6f-471b-b613-90356433dea7",
+        "name": "Клининговые услуги для офисных помещений",
+        "description": "Услуги по уборке и чистке офисных помещений и торговых площадей.",
+        "serviceType": "Manufacture",
+        "status": "Created",
+        "organizationId": "665792b7-eca1-432d-86ff-418772baa730",
+        "version": 1
+    },
+    {
+        "id": "5852152d-3d30-461e-9500-0a0a491e80d7",
+        "name": "Строительство ТРЦ",
+        "description": "Проектирование и строительство нового торгового центра на окраине города.",
+        "serviceType": "Construction",
+        "status": "Created",
+        "organizationId": "7ee3f915-1064-4c5e-9046-9f2e1a7244c1",
+        "version": 2
+    },
+    {
+        "id": "d1c70cec-e21a-43b0-b809-38fe679d33d1",
+        "name": "Проектирование системы безопасности",
+        "description": "Проектирование и внедрение системы безопасности для крупного завода.",
+        "serviceType": "Manufacture",
+        "status": "Created",
+        "organizationId": "80e5f119-10c5-4fbd-8b0f-a620368abbf6",
+        "version": 1
+    },
+    {
+        "id": "fff94208-aab6-4300-97d7-4f8e21689134",
+        "name": "Разработка программного обеспечения для управления складами",
+        "description": "Создание ПО для управления складскими запасами и логистики.",
+        "serviceType": "Manufacture",
+        "status": "Created",
+        "organizationId": "c02b46b6-e435-447f-8ef4-4ffa686cc3e2",
+        "version": 1
+    },
+    {
+        "id": "86e4424a-7453-4198-8fcc-70a9675b5ad2",
+        "name": "Строительство нового торгового центра",
+        "description": "Проект и строительство современного торгового центра в центре города.",
+        "serviceType": "Construction",
+        "status": "Created",
+        "organizationId": "c4f438cd-defb-4ba8-8264-4243b605ff2f",
+        "version": 1
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": "c221baeb-3ee9-4685-80b0-658009df81ff",
+        "username": "ivanov",
+        "first_name": "Иван",
+        "last_name": "Иванов"
+    },
+    {
+        "id": "84aa3e22-1d02-40e6-9f47-dc33b8b0cfee",
+        "username": "petrov",
+        "first_name": "Петр",
+        "last_name": "Петров"
+    },
+    {
+        "id": "a8e37f2e-4b02-4a20-b2df-d295a2356719",
+        "username": "sidorova",
+        "first_name": "Анна",
+        "last_name": "Сидорова"
+    },
+    {
+        "id": "428a2c93-da5d-4990-abd6-5237eb1a29b0",
+        "username": "smirnov",
+        "first_name": "Алексей",
+        "last_name": "Смирнов"
+    },
+    {
+        "id": "1140f508-61f0-4603-9dbc-cebf205fd5cd",
+        "username": "kuznetsova",
+        "first_name": "Мария",
+        "last_name": "Кузнецова"
+    },
+    {
+        "id": "43986469-88cb-4252-8c0d-f11a3c4bb815",
+        "username": "volkov",
+        "first_name": "Владимир",
+        "last_name": "Волков"
+    },
+    {
+        "id": "918f86cc-5268-4dd4-92fa-6b9576406f8b",
+        "username": "mikhaylova",
+        "first_name": "Ольга",
+        "last_name": "Михайлова"
+    },
+    {
+        "id": "a8a586d0-90dc-4d9c-86fa-bc4a91a1991f",
+        "username": "dmitriev",
+        "first_name": "Дмитрий",
+        "last_name": "Дмитриев"
+    },
+    {
+        "id": "7688f52a-ce3e-4831-9f75-53f9bb235bb8",
+        "username": "nikolaeva",
+        "first_name": "Юлия",
+        "last_name": "Николаева"
+    },
+    {
+        "id": "18a8420c-70a9-47ef-9698-1efe1743c50c",
+        "username": "orlov",
+        "first_name": "Максим",
+        "last_name": "Орлов"
+    },
+    {
+        "id": "b080c834-1f2a-4d75-96b7-5947d91b7a4b",
+        "username": "usmanov",
+        "first_name": "Шахбоз",
+        "last_name": "Усманов"
+    },
+    {
+        "id": "3d17db5f-c152-4a1b-ad3b-4f1210ffa0a9",
+        "username": "sergeev",
+        "first_name": "Сергей",
+        "last_name": "Сергеев"
+    },
+    {
+        "id": "a2572579-8502-472d-a24c-f9684fbf0498",
+        "username": "ivanova",
+        "first_name": "Екатерина",
+        "last_name": "Иванова"
+    },
+    {
+        "id": "9c139a52-8023-40ac-992b-1dfdc902ace2",
+        "username": "fedorov",
+        "first_name": "Федор",
+        "last_name": "Федоров"
+    },
+    {
+        "id": "9bc11466-f256-4eff-8394-f33136cc3a38",
+        "username": "vasilieva",
+        "first_name": "Алина",
+        "last_name": "Васильева"
+    },
+    {
+        "id": "75048ece-9e93-428b-8764-99d7bc3d15fd",
+        "username": "popov",
+        "first_name": "Николай",
+        "last_name": "Попов"
+    },
+    {
+        "id": "6e562d61-6da0-4113-b079-395c5b858069",
+        "username": "kozlova",
+        "first_name": "Татьяна",
+        "last_name": "Козлова"
+    },
+    {
+        "id": "7dec35f9-5b66-4396-8ee3-6811eda1e639",
+        "username": "zubov",
+        "first_name": "Андрей",
+        "last_name": "Зубов"
+    },
+    {
+        "id": "92128edf-dc65-4501-a322-c54db9f8b93a",
+        "username": "lebedeva",
+        "first_name": "Ирина",
+        "last_name": "Лебедева"
+    },
+    {
+        "id": "b374e354-20cd-48a3-8406-3b1f8aa51823",
+        "username": "voronov",
+        "first_name": "Александр",
+        "last_name": "Воронов"
+    },
+    {
+        "id": "047c50bd-72c3-4485-982a-bfd48e155fd5",
+        "username": "soboleva",
+        "first_name": "Наталья",
+        "last_name": "Соболева"
+    },
+    {
+        "id": "f650d888-1791-4f5b-be44-34da9a1d1873",
+        "username": "begmatov",
+        "first_name": "Амир",
+        "last_name": "Бегматов"
+    }
+]

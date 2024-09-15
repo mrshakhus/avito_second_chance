@@ -1,0 +1,18 @@
+[
+    {
+        "id": "d8abebfe-a4eb-4c54-b708-7fd99cfcd0ea",
+        "tenderName": "Строительство торгового центра",
+        "tenderDescription": "Проектирование и строительство нового торгового центра на окраине города.",
+        "tenderServiceType": "Construction",
+        "tenderId": "5852152d-3d30-461e-9500-0a0a491e80d7",
+        "tenderVersion": 1
+    },
+    {
+        "id": "0e170afb-9a01-4423-9825-f7724ce19487",
+        "tenderName": "Строительство ТРЦ",
+        "tenderDescription": "Проектирование и строительство нового торгового центра на окраине города.",
+        "tenderServiceType": "Construction",
+        "tenderId": "5852152d-3d30-461e-9500-0a0a491e80d7",
+        "tenderVersion": 2
+    }
+]

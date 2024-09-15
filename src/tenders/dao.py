@@ -200,10 +200,10 @@ class TenderDAO(BaseDAO):
                 tender.name = tender_name
 
             if tender_description is not None:
-                tender.tender_description = tender_description
+                tender.description = tender_description
 
             if tender_service_type is not None:
-                tender.tender_service_type = tender_service_type
+                tender.serviceType = tender_service_type
 
             tender.version += 1
 

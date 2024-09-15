@@ -42,4 +42,4 @@ formatter = CustomJsonFormatter(
 
 logHandler.setFormatter(formatter)
 logger.addHandler(logHandler)
-logger.setLevel(settings.LOG_LEVEL)
+logger.setLevel("INFO")

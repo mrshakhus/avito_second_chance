@@ -3,6 +3,8 @@ from pydantic import ConfigDict
 from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
+    MODE: Literal['DEV','PROD','TEST']
+
     SERVER_ADDRESS: str
     POSTGRES_CONN: str
 
