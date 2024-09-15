@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "tenders"
+version = "0.1.0"
+description = ""
+authors = ["Shakhboz Usmanov <shakhbozusmanov@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = {extras = ["all"], version = "^0.114.0"}
+python-json-logger = "^2.0.7"
+sqlalchemy = "^2.0.34"
+alembic = "^1.13.2"
+asyncpg = "^0.29.0"
+pytest = "^8.3.3"
+requests = "^2.32.3"
+gunicorn = "^23.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
